@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#bandeausaison4 {
+	background-image: url("../img/combat.jpg");
+	background-position: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+#bandeausaison4 h1 {
+	line-height: 1.5;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+    color: #fff;
+   
+    font-weight: 700;
+}
+
+#bandeausaison4 p {
+	line-height: 1.5;
+    font-family: Open Sans,Arial,Helvetica,sans-serif;
+    color: #ebdec2;
+    font-weight: 400;
+}
+
+.col-6 a{
+	text-decoration: underline;
+	ine-height: 1.5;
+    font-family: Open Sans,Arial,Helvetica,sans-serif;
+    color: #ebdec2;
+    font-weight: 400;
+}
+
+.annonce { line-height: 1.5;
+    font-weight: 400;
+    background: rgba(159,22,0,.6);
+	border: 1px solid ;
+	transition: background .2s,color .2s;
+ 	text-align: center;
+	padding: 10px;
+}
+ a{
+	display: inline-block;
+    cursor: pointer;
+	margin: 10px;
+	font-weight: 400;
+    color: #f7b10a;
+    min-width: 180px;
+	
+}
+.ensavoir{
+	line-height: 1.5;
+    font-weight: 400;
+	color: #f7b10a;
+	border: 1px solid ;
+	background: rgba(0,0,0,.4);
+	text-align: center;
+	padding: 10px;
+}
